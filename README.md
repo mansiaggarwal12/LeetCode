@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mansiaggarwa12/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/mansiaggarwa12/LeetCode/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/mansiaggarwa12/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/mansiaggarwa12/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mansiaggarwa12/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/mansiaggarwa12/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mansiaggarwa12/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/mansiaggarwa12/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1024-video-stitching](https://github.com/mansiaggarwa12/LeetCode/tree/master/1024-video-stitching) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mansiaggarwa12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mansiaggarwa12/LeetCode/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/mansiaggarwa12/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mansiaggarwa12/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1652-defuse-the-bomb](https://github.com/mansiaggarwa12/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mansiaggarwa12/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mansiaggarwa12/LeetCode/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/mansiaggarwa12/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mansiaggarwa12/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/mansiaggarwa12/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/mansiaggarwa12/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/mansiaggarwa12/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/mansiaggarwa12/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Backtracking
 |  |
