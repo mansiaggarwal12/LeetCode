@@ -1,35 +1,16 @@
 class Solution {
-
-    int[] dp;
-
     public int coinChange(int[] coins, int amount) {
-
-        dp = new int[amount + 1];
-        Arrays.fill(dp, -1);
-
-        int ans = solve(coins, amount);
-
-        return ans == Integer.MAX_VALUE ? -1 : ans;
-    }
-
-    public int solve(int[] coins, int amount) {
-
-        if (amount == 0) return 0;
-        if (amount < 0) return Integer.MAX_VALUE;
-
-        if (dp[amount] != -1)
-            return dp[amount];
-
-        int min = Integer.MAX_VALUE;
-
-        for (int coin : coins) {
-            int res = solve(coins, amount - coin);
-
-            if (res != Integer.MAX_VALUE)
-                min = Math.min(min, 1 + res);
+        if(amount<0)return -1;
+        if(amount==0)return 0;
+        int maxSentinel = amount + 1;
+        int[] dp = new int[amount+1];
+        Arrays.fill(dp,maxSentinel);
+        dp[0] = 0;
+        for(int c:coins){
+            for(int a = c;a<=amount;a++){
+                dp[a] = Math.min(dp[a],1+dp[a-c]);
+            }
         }
-
-        dp[amount] = min;
-        return min;
+        return dp[amount]>amount?-1:dp[amount];
     }
 }
