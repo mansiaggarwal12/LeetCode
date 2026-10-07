@@ -1,19 +1,20 @@
 class Solution {
-    int solve(int[]nums,int ind, int target,HashMap<String,Integer> dp){
-        if(ind == nums.length){
-            if(target==0)return 1;
+    public int findTargetSumWays(int[] nums, int target) {
+        int sum = 0;
+        for(int i:nums){
+            sum+=i;
+        }
+        if (Math.abs(target) > sum || (target + sum) % 2 != 0) {
             return 0;
         }
-        String s = String.valueOf(ind)+","+String.valueOf(target);
-        if(dp.containsKey(s))return dp.get(s);
-        int plus = solve(nums,ind+1,target-nums[ind],dp);
-        int minus = solve(nums,ind+1,target+nums[ind],dp);
-        String newKey = String.valueOf(ind)+","+String.valueOf(target);
-        dp.put(newKey,plus+minus);
-        return plus+minus;
-    }
-    public int findTargetSumWays(int[] nums, int target) {
-        HashMap<String,Integer> dp = new HashMap<>();
-        return solve(nums,0,target,dp);
+        int k = (target+sum)/2;
+        int [] dp = new int[k+1];
+        dp[0] = 1;
+        for(int i:nums){
+            for(int w=k;w>=i;w--){
+                dp[w] += dp[w-i];
+            }
+        }
+        return dp[k];
     }
 }
