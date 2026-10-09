@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mansiaggarwa12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/mansiaggarwa12/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/mansiaggarwa12/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/mansiaggarwa12/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mansiaggarwa12/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mansiaggarwa12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mansiaggarwa12/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/mansiaggarwa12/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mansiaggarwa12/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/mansiaggarwa12/LeetCode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mansiaggarwa12/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/mansiaggarwa12/LeetCode/tree/master/0506-relative-ranks) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/mansiaggarwa12/LeetCode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mansiaggarwa12/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
