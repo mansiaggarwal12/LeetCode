@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mansiaggarwa12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mansiaggarwa12/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mansiaggarwa12/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/mansiaggarwa12/LeetCode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/mansiaggarwa12/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mansiaggarwa12/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mansiaggarwa12/LeetCode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/mansiaggarwa12/LeetCode/tree/master/0289-game-of-life) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansiaggarwa12/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansiaggarwa12/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mansiaggarwa12/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mansiaggarwa12/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mansiaggarwa12/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mansiaggarwa12/LeetCode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/mansiaggarwa12/LeetCode/tree/master/0289-game-of-life) |
 | [0931-minimum-falling-path-sum](https://github.com/mansiaggarwa12/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Breadth-First Search
 |  |
