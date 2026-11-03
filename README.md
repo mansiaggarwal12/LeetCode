@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mansiaggarwa12/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/mansiaggarwa12/LeetCode/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mansiaggarwa12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/mansiaggarwa12/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mansiaggarwa12/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/mansiaggarwa12/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1510-stone-game-iv](https://github.com/mansiaggarwa12/LeetCode/tree/master/1510-stone-game-iv) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/mansiaggarwa12/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mansiaggarwa12/LeetCode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mansiaggarwa12/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/mansiaggarwa12/LeetCode/tree/master/0493-reverse-pairs) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/mansiaggarwa12/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mansiaggarwa12/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/mansiaggarwa12/LeetCode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mansiaggarwa12/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/mansiaggarwa12/LeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Merge Sort
 |  |
 | ------- |
