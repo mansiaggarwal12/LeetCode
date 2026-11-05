@@ -1,12 +1,12 @@
 class Solution {
-    public int uniquePaths(int rows, int cols) {
-        int [] dp = new int[cols];
-        for(int c=0;c<cols;c++)dp[c]=1;
-        for(int r=1;r<rows;r++){
-            for(int c=1;c<cols;c++){
-                dp[c] = dp[c] + dp[c-1];
+    public int uniquePaths(int m, int n) {
+        int [] dp = new int[n];
+        Arrays.fill(dp,1);
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                dp[j] = dp[j-1]+dp[j];
             }
         }
-        return dp[cols-1];
+        return dp[n-1];
     }
 }
