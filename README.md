@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mansiaggarwa12/LeetCode/tree/master/0079-word-search) |
+| [0543-diameter-of-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -788,4 +789,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mansiaggarwa12/LeetCode/tree/master/0051-n-queens) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
