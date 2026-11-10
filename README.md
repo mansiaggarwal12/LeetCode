@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mansiaggarwa12/LeetCode/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/mansiaggarwa12/LeetCode/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/mansiaggarwa12/LeetCode/tree/master/0763-partition-labels) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/mansiaggarwa12/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mansiaggarwa12/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mansiaggarwa12/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansiaggarwa12/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mansiaggarwa12/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mansiaggarwa12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mansiaggarwa12/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/mansiaggarwa12/LeetCode/tree/master/0322-coin-change) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/mansiaggarwa12/LeetCode/tree/master/0079-word-search) |
 | [0543-diameter-of-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -795,11 +799,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mansiaggarwa12/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mansiaggarwa12/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mansiaggarwa12/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
